@@ -12,6 +12,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:background="#96CA61D7"
+        android:id="@+id/tb"
         app:navigationIcon="@drawable/arrow"
         app:title="Add Details">
 
